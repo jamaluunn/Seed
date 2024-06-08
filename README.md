@@ -43,19 +43,19 @@ python3 main.py
 ### Setup for Windows
 
 1. **Create a virtual environment:**
-
+```shell
 python -m venv venv
-
+```
 2. **Activate the virtual environment:**
-
+```shell
 venv\Scripts\activate
-
+```
 3. **Run the bot:**
-
+```shell
 python main.py
-
+```
 ## Features
-
+```shell
          ccee88oo
       C8O8O8Q8PoOb o8oo
      dOB69QO8PdUOpugoO9bD
@@ -76,7 +76,7 @@ SEED AUTO BOT - @HylobatesMoloch
 3. Upgrade Storage: Ensure your storage is always upgraded to accommodate more seeds.
 4. Daily Check-In: Automatically perform daily check-ins to keep your progress up-to-date.
 5. Claim Seeds Repeatedly: The bot will continuously claim seeds, ensuring you maximize your resources.
-
+```
 ## Contribution
 
 Feel free to contribute to this project by submitting issues or pull requests. Contributions are welcome to improve the bot and add more features.
