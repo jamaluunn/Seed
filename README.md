@@ -1,14 +1,14 @@
-# Seed Auto Bot - @HylobatesMoloch
+## Seed Auto Bot - @HylobatesMoloch
 
-# Seed Auto Bot is an automated bot designed to help you manage and upgrade your virtual garden efficiently. 
-# This bot performs tasks such as completing all available tasks, upgrading trees and storage, daily check-ins, and repeatedly claiming seeds.
+### Seed Auto Bot is an automated bot designed to help you manage and upgrade your virtual garden efficiently. 
+### This bot performs tasks such as completing all available tasks, upgrading trees and storage, daily check-ins, and repeatedly claiming seeds.
 
-# Getting Started
+## Getting Started
 
-# Prerequisites
-# Before you begin, ensure you have the following installed:
-# - Python 3.x
-# - Git
+## Prerequisites
+## Before you begin, ensure you have the following installed:
+## - Python 3.x
+## - Git
 
 # Installation
 
