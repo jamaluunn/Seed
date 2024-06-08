@@ -13,9 +13,10 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository:**
-
+```shell
 git clone https://github.com/jamaluunn/Seed.git
 cd Seed
+```
 
 2. **Edit the `data.txt` file with your query ID:**
    - Open Telegram Desktop.
@@ -27,16 +28,17 @@ cd Seed
 ### Setup for Linux
 
 1. **Create a virtual environment:**
-
+```shell
 python3 -m venv venv
-
+```
 2. **Activate the virtual environment:**
-
+```shell
 source venv/bin/activate
-
+```
 3. **Run the bot:**
-
+```shell
 python3 main.py
+```
 
 ### Setup for Windows
 
